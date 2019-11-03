@@ -1,0 +1,44 @@
+1.
+table表格
+thead 
+tbody
+tfoot
+tr 行
+th td 单元格
+去了解一下table里的display
+
+2.
+插件问题，学会封装两个插件
+  分页插件
+  搜索插件
+
+3.
+dd dl dt 标签
+
+4.
+form表单
+input label(for) submit...
+属性： type name value...
+这部分的页面css没有写好
+
+5.
+Window confirm() 方法
+       alert()
+
+6.
+form reset();
+
+7.
+事件委托
+事件冒泡
+
+
+
+
+
+
+
+
+
+
+
